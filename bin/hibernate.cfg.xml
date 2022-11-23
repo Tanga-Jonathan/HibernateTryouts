@@ -30,7 +30,7 @@
         <property name="hbm2ddl.auto">create</property>
 
         <!-- Names the annotated entity class -->
-        <mapping class="hiberPaca.dto.SurrogateKey"/>
+        <mapping class="hiberPaca.dto.Persony"/>
 
     </session-factory>
 
